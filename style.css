@@ -1,0 +1,35 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Rye', cursive;
+
+
+}
+
+.note {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-size: cover;
+
+}
+
+.song_name {
+    font-size: 25px;
+    box-shadow: 5px 5px 5px #00ff40;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+canvas{
+    border:5px solid #a000e0;
+    border-radius:20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow: 5px 5px 5px grey;
+    background-color:#ffc0ff ;
+}
