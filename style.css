@@ -1,51 +1,39 @@
-.heading{
+.heading {
     font-size: 23px;
-    width:100% ;
+    width: 100%;
     margin: 0px;
+    font-family: 'Rye', cursive;
+
 
 }
-.note{
-    font-size: 15px;
+
+.note {
+    font-size: 18px;
     color: rgb(0, 0, 0);
     font-weight: bold;
-
+    font-family: 'Raleway', sans-serif;
 }
-body{
+
+body {
     background-size: cover;
 
 }
-.speed_image{
-    width: 200px;
-    border-radius: 100px;
 
+.song_name {
+    font-size: 25px;
+    box-shadow: 5px 5px 5px #00ff40;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
 }
-.volume_image{
-    width: 200px;
-    border-radius: 100px;
-
-}
-.div_speed{
-    float: left;
-}
-.div_volume{
-    float: right;
-}
-#speed{
-    font-size: 23px;
-    margin: 15px;
-    box-shadow: 5px 5px 5px #ff2020;
-}
-#volume{
-    font-size: 23px;
-    margin: 15px;
-    box-shadow: 5px 5px 5px #ff2020;
+canvas{
+    border:5px solid #a000e0;
+    border-radius:20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow: 5px 5px 5px grey;
+    background-color:#ffc0ff ;
 }
 .play_button{
     width: 130px; 
     font-size: 25px;
-}
-canvas{
-    border: 5px solid white;
-    border-radius: 20px;
-    
 }
